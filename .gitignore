@@ -1,0 +1,7 @@
+node_modules/
+
+.*.swp
+.DS_Store
+config.gypi
+npm-debug.log
+

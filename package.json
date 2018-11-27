@@ -1,0 +1,34 @@
+{
+  "name": "ibetonedice",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "tap tests/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibetone/ibetonedice"
+  },
+  "engines": {
+    "node": ">=4.1.0"
+  },
+  "keywords": [
+    "dice",
+    "random",
+    "gambler",
+    "fallacy",
+    "terrible-idea",
+    "monte",
+    "carlo"
+  ],
+  "license": "ISC"
+  },
+  "homepage": "https://github.com/ibetone/ibetonedice#readme",
+  "devDependencies": {
+    "tap": "^10.7.0"
+  }
+}
